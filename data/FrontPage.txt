@@ -1,0 +1,6 @@
+This is wiki page from <a href="https://go.dev/doc/articles/wiki/" target="_blank">Writing Web Application</a>
+
+These are implementation of inter-page linking using [`PageName`]:
+- [FrontPage] is this page, can also access with / (will redirect to /view/FrontPage)
+- [test] is for testing
+- [ANewPage] is non-exist (will redirect to /edit/ANewPage instead)
